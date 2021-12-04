@@ -1,0 +1,18 @@
+img {
+    width: 80%;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: right;
+}
+
+.center-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.smaller-p {
+    width: 60%;
+}
